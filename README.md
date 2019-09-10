@@ -27,6 +27,6 @@ npm i -D git@github.com:WORK180/eslint-config-work180.git
 ```
 
 ## Using with editor plugins
-If your editor has an ESLint plugin, you can use it to auto format code using the eslint rules.
+If your editor has an ESLint plugin, you can use it to auto format code using this ESLint config.
 The ESLint config uses prettier to format your code. If your editor has a prettier plugin installed, disable it to prevent conflicts.
 
