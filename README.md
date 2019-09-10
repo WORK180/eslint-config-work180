@@ -1,6 +1,6 @@
 # eslint-config-work180
 
-This package provides the ESLint config used by WORK180 as an extensible shared config/
+This package provides the ESLint config used by WORK180 as an extensible shared config
 
 ## Usage
 
