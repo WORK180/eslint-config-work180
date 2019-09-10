@@ -14,12 +14,12 @@ This package provides the ESLint config used by WORK180 as an extensible shared 
 "eslint-plugin-react-hooks": "^2.0.1"
 ```
 
-2) Install eslint-config-work180
+2) Install `eslint-config-work180`
 ```
 npm i -D git@github.com:WORK180/eslint-config-work180.git
 ```
 
-3) Extend eslint-config-work180 in you `.eslintrc` config
+3) Extend eslint-config-work180 in your `.eslintrc` config
 ```
 {
     "extends": ["eslint-config-work180"]
