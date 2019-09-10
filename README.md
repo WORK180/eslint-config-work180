@@ -16,7 +16,7 @@ This package provides the ESLint config used by WORK180 as an extensible shared 
 
 2) Install `eslint-config-work180`
 ```
-npm i -D git@github.com:WORK180/eslint-config-work180.git
+npm i -D ssh://git@github.com:WORK180/eslint-config-work180.git
 ```
 
 3) Extend eslint-config-work180 in your `.eslintrc` config
