@@ -19,8 +19,10 @@ This package provides the ESLint config used by WORK180 as an extensible shared 
 npm i -D ssh://git@github.com:WORK180/eslint-config-work180.git
 ```
 
-3) Extend eslint-config-work180 in your `.eslintrc` config
+3) Extend `eslint-config-work180` in your `.eslintrc` config
 ```
+.eslintrc.json
+
 {
     "extends": ["eslint-config-work180"]
 }
